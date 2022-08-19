@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satyam4229
-- 👀 I’m interested in front-end and back-end coding
+- 👀 I’m interested in Data Analysis, Macine Learning as well as Web Dev.
 - 🌱 I’m currently pursuing BTech - CSE
 - 📫 Mail-id : Psatyam4229@gmail.com 
 
