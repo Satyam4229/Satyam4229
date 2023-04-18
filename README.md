@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis, Macine Learning as well as Web Dev.
 - 🌱 I’m currently pursuing BTech - CSE
 - 📫 Mail-id : Psatyam4229@gmail.com 
+- ✔ Portfolio : https://satyam4229.github.io/Portfolio/
 
 <!---
 Satyam4229/Satyam4229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
