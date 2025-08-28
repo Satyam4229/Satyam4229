@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyam4229
 - 👀 I’m interested in Tech stuff related to Microsoft Power Platform, Data Science, Machine Learning and Web Development.
-- 🌱 I’m currently Software developer @ Panamoure India
+- 🌱 I’m currently Power Platform Developer @ Arcadis
 - 📫 Mail-id : Psatyam4229@gmail.com 
 - ✔ Portfolio : https://satyam4229.github.io/Portfolio/
 
